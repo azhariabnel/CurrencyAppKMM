@@ -1,3 +1,18 @@
+Currency App for both Android & IoS Platform
+ - Develop for Android and iOS App from a Single Codebase
+ - Develop  for Android and iOS App with Shared UI
+ - Compose Multiplatform Framework
+ - Local Database (MongoDB Realm)
+ - Network (Ktor)
+ - Offline Cache
+ - MVVM Architecture
+ - Clean Architecture
+ - Animated UI
+ - Material 3 Components
+And many more
+
+thanks for the course to @stevdza-san
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
